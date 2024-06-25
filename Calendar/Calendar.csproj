@@ -9,7 +9,4 @@
     <ApplicationVersion>1</ApplicationVersion>
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
   </PropertyGroup>
-  <ItemGroup>
-    <Folder Include="Application\" />
-  </ItemGroup>
 </Project>
